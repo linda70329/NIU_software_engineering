@@ -6,3 +6,5 @@ print("AAA")
 print("B0943012")
 print("I am antifragile")
 print("antitititititifragile")
+
+print("B0943010")
